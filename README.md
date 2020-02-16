@@ -126,8 +126,12 @@ This assignnment is more involved than the first two, but uses the same basic mi
 
 ## Screensavers
 
-_TODO: Add your screensaver descriptions!!!_
+1. exploding star on shake
+2. snake on downward
+3.sprial on uo 
+4. blinking on left turn
+5. man waving hello on right turn
 
 ## Demo video
 
-_TODO: Add your video URL here!!!_
+[demo video](https://imgur.com/gallery/NRif4At)
